@@ -1,0 +1,154 @@
+canonical_identifier: bkk:krp/KR6e0019/X/v1
+canonical_location: https://kanripo.org/bkk/KR6e0019/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 華嚴經疏鈔玄談
+  identifiers:
+    krp: KR6e0019
+    cbeta: X05n0232
+    cbeta_old_id: X05n0232
+    authorityid: CA0001412
+    json_key: X0232
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X05/X05n0232.xml
+    old_id: X05n0232
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6e0019_000-X.yaml, hash: 'sha256:199e245e9b7d4f58ecd640b0eefafa13461300f40f500b8c40ee7a8905801c82'}
+  - {seq: 1, filename: KR6e0019_001-X.yaml, hash: 'sha256:67b26f5e33a565b051a3e568cdcd009158f1981e768db9def723498dd7ce5efb'}
+  - {seq: 2, filename: KR6e0019_002-X.yaml, hash: 'sha256:b41c421ca448e97ff1b1b4e30cac7bfcbfb85cc8b4a61970390e99a54e4c13cd'}
+  - {seq: 3, filename: KR6e0019_003-X.yaml, hash: 'sha256:6b23cea13204299e6d0d2f084dcecfb377329ceb3c6f15d131636fb045812fc5'}
+  - {seq: 4, filename: KR6e0019_004-X.yaml, hash: 'sha256:7ceb0e96e941562b3e3bb62e86a4bd1934366106878a75c5c44b54c90e1332d7'}
+  - {seq: 5, filename: KR6e0019_005-X.yaml, hash: 'sha256:cca342fd603c46bbe5d9df25ee673bb2afbd0926421ccf6b598e87b53c8568c0'}
+  - {seq: 6, filename: KR6e0019_006-X.yaml, hash: 'sha256:113b216d829b3ca3a18a66bdfe546c516a7342a213b9412c738d78a51262a37e'}
+  - {seq: 7, filename: KR6e0019_007-X.yaml, hash: 'sha256:498002a34508851eeb6f85656eea4884f0cfb3f3eed6a356bb65fc06497a7081'}
+  - {seq: 8, filename: KR6e0019_008-X.yaml, hash: 'sha256:e7a5a8e8afb1ea8ddab094ebee32dcd471af7e233f7291ae654e577a185a0aa1'}
+  - {seq: 9, filename: KR6e0019_009-X.yaml, hash: 'sha256:bc30f65ffa40008f5cb7f5039f08c8d9fff705be952c9ca8ddadf82ca2e90649'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6e0019_000-X.markers.yaml, hash: 'sha256:96e25dd08cb7c2ed2a6c46d6ef1b6ade53c31759430fa8522c20b116e9fdc1ec'}
+  - {seq: 1, role: markers, filename: assets/KR6e0019_001-X.markers.yaml, hash: 'sha256:f766682e4e4a3b83ef1748de50edfbc981a55b03d2a4fac067bcfbd4f915045c'}
+  - {seq: 2, role: markers, filename: assets/KR6e0019_002-X.markers.yaml, hash: 'sha256:d9304eb16a0c6a193675c9eae3026172467735de824e0b1c475a5e9bdc6728ec'}
+  - {seq: 3, role: markers, filename: assets/KR6e0019_003-X.markers.yaml, hash: 'sha256:29a838803386f1716aa5d8ba89552d6c697c283fec286cff5d69bced34b65834'}
+  - {seq: 4, role: markers, filename: assets/KR6e0019_004-X.markers.yaml, hash: 'sha256:554ad934ba83a8f06566d7933dbaa3209e48631b14d185751afc992b2cde41f7'}
+  - {seq: 5, role: markers, filename: assets/KR6e0019_005-X.markers.yaml, hash: 'sha256:39a2b80bf24cba706ec5da1a8043eafbbd5c561263e077f70a71af94c4fd1b0c'}
+  - {seq: 6, role: markers, filename: assets/KR6e0019_006-X.markers.yaml, hash: 'sha256:0aeea445230a994df12fecfeec9281e428a3f20905df1982d3373e368bb93977'}
+  - {seq: 7, role: markers, filename: assets/KR6e0019_007-X.markers.yaml, hash: 'sha256:6cc36f6c5ee341b2ebc9d03484244dbcdf588d9745477e4443f76be2d7a81636'}
+  - {seq: 8, role: markers, filename: assets/KR6e0019_008-X.markers.yaml, hash: 'sha256:7089ade6b62938056f904e4e3c9a9ab4481291188ec93e7a7b5f5aad8e25c4e4'}
+  - {seq: 9, role: markers, filename: assets/KR6e0019_009-X.markers.yaml, hash: 'sha256:9db1bb5095c973a75ff69383c421ae7c8451d02bafaf9938f798b41f840246e7'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6e0019_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 釋鈔序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6e0019_X_000-mulu-2
+    span:
+    - front
+    - 3523
+    - 3523
+  label: 正文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0019_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 20336
+  label: 大方廣佛華嚴經疏序演義鈔卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0019_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 18943
+  label: 大方廣佛華嚴經疏演義鈔卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6e0019_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 18014
+  label: 大方廣佛華嚴經疏演義鈔卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0019_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 22553
+  label: 大方廣佛華嚴經疏演義鈔卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6e0019_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 28882
+  label: 大方廣佛華嚴經疏演義鈔卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0019_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 25883
+  label: 大方廣佛華嚴經疏演義鈔卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6e0019_X_007-juan-start
+    span:
+    - body
+    - 0
+    - 21558
+  label: 大方廣佛華嚴經疏演義鈔卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6e0019_X_008-juan-start
+    span:
+    - body
+    - 0
+    - 29225
+  label: 大方廣佛華嚴經疏演義鈔卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6e0019_X_009-juan-start
+    span:
+    - body
+    - 0
+    - 22843
+  label: 大方廣佛華嚴經疏演義鈔卷第九
+  type: juan
+  level: 1
+hash: sha256:01e8e2234ab2ebbcce2557e035723f89dc4cf49e117e32c43af547a30047c1a9
