@@ -19,7 +19,7 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6e0019_000-X.yaml, hash: 'sha256:199e245e9b7d4f58ecd640b0eefafa13461300f40f500b8c40ee7a8905801c82'}
+  - {seq: 0, filename: KR6e0019_000-X.yaml, hash: 'sha256:590cb9cbb90a8e5a4faf02976781c5d7230021f69bf7bc757d8b51213a0ab23a'}
   - {seq: 1, filename: KR6e0019_001-X.yaml, hash: 'sha256:67b26f5e33a565b051a3e568cdcd009158f1981e768db9def723498dd7ce5efb'}
   - {seq: 2, filename: KR6e0019_002-X.yaml, hash: 'sha256:b41c421ca448e97ff1b1b4e30cac7bfcbfb85cc8b4a61970390e99a54e4c13cd'}
   - {seq: 3, filename: KR6e0019_003-X.yaml, hash: 'sha256:6b23cea13204299e6d0d2f084dcecfb377329ceb3c6f15d131636fb045812fc5'}
@@ -30,7 +30,7 @@ assets:
   - {seq: 8, filename: KR6e0019_008-X.yaml, hash: 'sha256:e7a5a8e8afb1ea8ddab094ebee32dcd471af7e233f7291ae654e577a185a0aa1'}
   - {seq: 9, filename: KR6e0019_009-X.yaml, hash: 'sha256:bc30f65ffa40008f5cb7f5039f08c8d9fff705be952c9ca8ddadf82ca2e90649'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6e0019_000-X.markers.yaml, hash: 'sha256:f127f1ba4b40d9b074f303a1d8271351b4f9ddf1714a5e3f9b015ba17bddd855'}
+  - {seq: 0, role: markers, filename: assets/KR6e0019_000-X.markers.yaml, hash: 'sha256:da08fee796ace4415b2e45e17a4dcc21148e54b6f4f6a77c7680b514724c2468'}
   - {seq: 1, role: markers, filename: assets/KR6e0019_001-X.markers.yaml, hash: 'sha256:35f6e6488033cbbafea289bac1407f31c3160d8895618eb4a303090330bbc0fc'}
   - {seq: 2, role: markers, filename: assets/KR6e0019_002-X.markers.yaml, hash: 'sha256:410d70d00b5450bfefe8b525a37e00bdefaff0ebe993c1cba190be4d819b2021'}
   - {seq: 3, role: markers, filename: assets/KR6e0019_003-X.markers.yaml, hash: 'sha256:2aaed634897cc60f37fdf7a44d8cc3c4f3977d5d8bf7eeabf001c4b687051777'}
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6e0019_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 釋鈔序
@@ -55,7 +55,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6e0019_X_000-mulu-2
     span:
-    - front
+    - body
     - 3523
     - 3523
   label: 正文
@@ -151,4 +151,4 @@ table_of_contents:
   label: 大方廣佛華嚴經疏演義鈔卷第九
   type: juan
   level: 1
-hash: sha256:f745c60c1581aa997fdb8571bb678ff89f9508c4df00f84c82cd251a40b7f67a
+hash: sha256:a673c7d50c5283e32e990d27bef7a421048245271fa5d58a51848e7ebe988277
